@@ -1,2 +1,3 @@
 select *
 FROm testdb
+where test='true'
